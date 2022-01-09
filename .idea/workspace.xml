@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbc92efe-2d9a-48ba-a191-7e35f46f97b1" name="Default Changelist" comment="" />
+    <list default="true" id="bbc92efe-2d9a-48ba-a191-7e35f46f97b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-front-end/src/app/hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-front-end/src/app/mock-heroes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-front-end/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-front-end/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-front-end/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-front-end/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-front-end/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-front-end/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-front-end/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-front-end/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-front-end/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-front-end/src/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -74,7 +83,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641506972500</updated>
-      <workItem from="1641506973856" duration="3882000" />
+      <workItem from="1641506973856" duration="4663000" />
+      <workItem from="1641648101815" duration="1173000" />
+      <workItem from="1641742781591" duration="8062000" />
     </task>
     <servers />
   </component>
@@ -91,5 +102,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
